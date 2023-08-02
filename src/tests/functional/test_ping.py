@@ -1,7 +1,7 @@
 import json
 
 
-def test_pint(test_app):
+def test_ping(test_app):
     # Given
     client = test_app.test_client()
 
