@@ -17,3 +17,5 @@ Open a new shell and execute
 
 $ docker ps # get the id of the running container
 $ docker stop <containerid> # kill it (gracefully)
+
+Imported into a Gitlab project.
