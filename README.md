@@ -8,6 +8,8 @@ fix was:
 
 export DOCKER_DEFAULT_PLATFORM=linux/amd64, and re-build your images.
 
+https://stackoverflow.com/questions/62807717/how-can-i-solve-postgresql-scram-authentication-problem
+
 
 To stop docker run:
 
